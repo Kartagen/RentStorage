@@ -1,0 +1,26 @@
+/Task2/apz-pzpi-21-7-vysochyn-illia-task2/node_modules/
+/Task2/apz-pzpi-21-7-vysochyn-illia-task2/config.js
+/Task2/apz-pzpi-21-7-vysochyn-illia-task2/backups/
+/Task3/apz-pzpi-21-7-vysochyn-illia-task3/.vs/
+/Task3/apz-pzpi-21-7-vysochyn-illia-task3/bin/
+/Task3/apz-pzpi-21-7-vysochyn-illia-task3/obj/
+/Task3/apz-pzpi-21-7-vysochyn-illia-task3/packages/
+/Task4/apz-pzpi-21-7-vysochyn-illia-task4/node_modules
+
+/Task5/apz-pzpi-21-7-vysochyn-illia-task5/.gradle/
+/Task5/apz-pzpi-21-7-vysochyn-illia-task5/.idea/
+/Task5/apz-pzpi-21-7-vysochyn-illia-task5/app/build/
+/Task5/apz-pzpi-21-7-vysochyn-illia-task5/local.properties
+/Task5/apz-pzpi-21-7-vysochyn-illia-task5/
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
+
